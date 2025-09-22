@@ -6,7 +6,8 @@
 ## 安装 UniVPN / Install the UniVPN
 ### 1. 下载并安装 UniVPN / Download and install UniVPN
 
-[UniVPN Linux 客户端下载链接 / UniVPN Linux client download link](https://download.leagsoft.com/download/UniVPN/linux/univpn-linux-64-10781.15.0.1208.zip)
+
+[UniVPN Linux 客户端下载链接 / UniVPN Linux client download link](https://download.leagsoft.com/download/UniVPN/linux/univpn-linux-64-10781.18.1.0512.zip)
 
 打开 "终端"，将目录路径切换到下载文件所在的目录，解压文件并运行安装文件。 / Open "Terminal" and switch the directory path to the directory where the downloaded file is located, unzip the file and run the installation file.
 
