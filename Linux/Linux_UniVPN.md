@@ -5,7 +5,7 @@
 
 ## 安装 UniVPN / Install the UniVPN
 ### 1. 下载并安装 UniVPN / Download and install UniVPN
-[UniVPN Linux 客户端下载链接 /deb](https://www.leagsoft.com/doc/article/103107.html)
+[UniVPN Linux 客户端下载链接 /deb](https://download.leagsoft.com/download/UniVPN/amd/cn.com.huawei-security-commercial-alliance.univpn_10781.15.0.1208_amd64.deb)
 https://www.leagsoft.com/doc/article/103107.html
 
 [UniVPN Linux 客户端下载链接 /ubuntu 22.04](https://download.leagsoft.com/download/UniVPN/linux/univpn-linux-64-10781.18.1.0512.zip)
